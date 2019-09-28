@@ -1,10 +1,10 @@
 def my_collect(array) 
   counter = 0
-  array = []
+  new_array = []
   while counter < array.length
-    array << 
+    new_array << array.
     counter += 1
   end  
   
-  array
+  new_array
 end
